@@ -1,0 +1,7 @@
+{
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "editor.fontSize": 14,
+    "editor.formatOnType": true,
+    "workbench.editor.showTabs": false,
+    "typescript.useCodeSnippetsOnMethodSuggest": true
+}
